@@ -1,4 +1,4 @@
-﻿# Daily Progress Log – BridgeLabz
++﻿# Daily Progress Log – BridgeLabz
 
 This repository documents my daily learning progress during the **BridgeLabz Training Program**, focused on **Java Programming**.  
 Tasks are organized week-wise, detailing the concepts learned and problems solved each day.
@@ -137,4 +137,9 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
 -Reflection: Understanding of Reflection, Using Reflection in Java, Annotations and Reflection
 
 🔗 [Java Reflection and Annotations](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/collections-practice/gcr-codebase/annotations-reflections)
+
+### 📅 Day 20 – CSV Data Handling (22-Jan-2026)
+-Introduction to CSV Data Handling: Reading CSV Files, Writing CSV Files, Parsing CSV Data, Data Validation
+🔗 [CSV Data Handling](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/io-programming-practice/gcr-codebase/csv-practice)
+
 
