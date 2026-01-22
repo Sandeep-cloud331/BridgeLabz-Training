@@ -131,15 +131,17 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
 🔗 [Java Regex](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/collections-practice/gcr-codebase/regex)
 
 ### 📅 Day 19 – Reflection and Annotations (14-Jan-2026)
--Introduction to Annotations:
+- Introduction to Annotations:
  Common Built-in Annotations,Creating Custom Annotations, Advanced Custom Annotations, Real-World Use Cases, Annotation Processing Tools
-
--Reflection: Understanding of Reflection, Using Reflection in Java, Annotations and Reflection
+- Reflection: Understanding of Reflection, Using Reflection in Java, Annotations and Reflection
 
 🔗 [Java Reflection and Annotations](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/collections-practice/gcr-codebase/annotations-reflections)
 
 ### 📅 Day 20 – CSV Data Handling (22-Jan-2026)
--Introduction to CSV Data Handling: Reading CSV Files, Writing CSV Files, Parsing CSV Data, Data Validation
+- Introduction to CSV Data Handling:
+- Reading CSV Files, Writing CSV Files, Parsing CSV Data, Data Validation
+  
 🔗 [CSV Data Handling](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/io-programming-practice/gcr-codebase/csv-practice)
+
 
 
