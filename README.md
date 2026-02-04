@@ -140,8 +140,42 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
 ### 📅 Day 20 – CSV Data Handling (22-Jan-2026)
 - Introduction to CSV Data Handling:
 - Reading CSV Files, Writing CSV Files, Parsing CSV Data, Data Validation
+
+### 📅 Day 21 – JSON Data (23-Jan-2026)
+- Introduction to JSON:
+- Reading JSON Data, Writing JSON Data, Parsing JSON Data, JSON Schema Validation
   
-🔗 [CSV Data Handling](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/io-programming-practice/gcr-codebase/csv-practice)
+🔗 [JSON Data](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/io-programming-practice/gcr-codebase/json-practice)
+
+### 📅 Day 22 – Lambda Expressions (23-Jan-2026)
+- Introduction to Lambda Expressions:
+- Lambda Expressions, Method References
+  
+🔗 [Lambda Expression](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/lambda-expression)
+
+### 📅 Day 23 – Functional Interfaces (24-Jan-2026)
+-  Defining and Implementing Interfaces:
+-  Functional Interfaces, Default and Static Methods in Interfaces, Marker Interfaces
+  
+🔗 [Functional Interfaces](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/functional-interface)
+
+### 📅 Day 24 – Stream API (28-Jan-2026)
+-  Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+  
+🔗 [Stream API](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/stream-api)
+
+### 📅 Day 25 – Collectors (30-Jan-2026)
+-  Used Collectors.toList(), toSet(), and toMap() for collecting stream results
+-  Worked with nested collectors like groupingBy() with mapping() and counting()
+  
+🔗 [Collectors](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/collectors)
+
+
 
 
 
