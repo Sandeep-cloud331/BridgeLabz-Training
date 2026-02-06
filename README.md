@@ -1,4 +1,4 @@
-+﻿# Daily Progress Log – BridgeLabz
+#﻿ Daily Progress Log – BridgeLabz
 
 This repository documents my daily learning progress during the **BridgeLabz Training Program**, focused on **Java Programming**.  
 Tasks are organized week-wise, detailing the concepts learned and problems solved each day.
@@ -174,6 +174,7 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
 -  Worked with nested collectors like groupingBy() with mapping() and counting()
   
 🔗 [Collectors](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/collectors)
+
 
 
 
