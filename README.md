@@ -164,7 +164,7 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
 - Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
 - Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
 - Ordered vs unordered streams
-- Parallel streams
+- Parallel streams 
 - forEach() — Iterable vs Stream
   
 🔗 [Stream API](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/stream-api)
@@ -175,9 +175,12 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
   
 🔗 [Collectors](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/java8-features-practice/gcr-codebase/collectors)
 
+## Week 7: Solution Designing
+### 📅 Day 26 - Design Patterns (1-Feb-2026)
+- Introduction to GoF Design Pattern:
+- Categories of Patterns (GoF classification), Singleton Pattern, Factory Pattern, Observer Pattern, Builder Pattern, UML Designing
 
-
-
+🔗 [Design Patterns](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/design-patterns-practice/gcr-codebase/smart-library-management)
 
 
 
