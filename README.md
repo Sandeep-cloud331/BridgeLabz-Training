@@ -182,6 +182,17 @@ Tasks are organized week-wise, detailing the concepts learned and problems solve
 
 🔗 [Design Patterns](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/design-patterns-practice/gcr-codebase/smart-library-management)
 
+## Week 8: Multi-Threading
+### 📅 Day 27 - Multi-Threading (2-Feb-2026)
+- Introduction to Multi-Threading:
+- Creating Threads Using Thread Class, Creating Threads Using Runnable Interface, Thread Class vs Runnable Interface, Thread Life Cycle and States
+
+🔗 [Multi-Threading](https://github.com/Sandeep-cloud331/BridgeLabz-Training/tree/multithreading-practice)
+
+  
+
+
+
 
 
 
