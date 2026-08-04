@@ -58,3 +58,31 @@ This repository contains my notes, practice programs, and assignments from the R
 - Practiced creating indexes to improve query performance
 
 ---
+## Day 3 - Advanced SQL
+
+### Topics Covered
+
+- SQL Joins
+  - INNER JOIN
+  - Many-to-Many Relationships
+  - Junction Tables (`doctor_specializations`)
+
+- Stored Procedures
+  - Creating Stored Procedures
+  - IN Parameters
+
+- Triggers
+  - BEFORE INSERT Trigger
+  - AFTER UPDATE Trigger
+  - BEFORE DELETE Trigger
+
+
+### Hands-on Practice
+
+- Implemented many-to-many relationship between doctors and specializations.
+- Retrieved doctor and specialization details using `JOIN`.
+- Created stored procedures to fetch patient appointments and patient count.
+- Implemented triggers to:
+  - Prevent appointments from being booked in the past.
+  - Automatically create visit history after appointment completion.
+  - Restrict deletion of patients with active appointments.
