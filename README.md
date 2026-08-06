@@ -86,3 +86,20 @@ This repository contains my notes, practice programs, and assignments from the R
   - Prevent appointments from being booked in the past.
   - Automatically create visit history after appointment completion.
   - Restrict deletion of patients with active appointments.
+
+## Day 4 - Java JDBC Project (Health Clinic Management System)
+
+### Topics Covered
+
+* JDBC Basics
+* Connecting Java with MySQL
+* CRUD Operations
+* PreparedStatement
+* ResultSet
+* DAO & DTO Pattern
+* Layered Architecture
+* Exception Handling
+
+### Project
+
+* Built a **Health Clinic Management System** using Java, JDBC, and MySQL to practice CRUD operations and implement a layered architecture.
