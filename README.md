@@ -103,3 +103,21 @@ This repository contains my notes, practice programs, and assignments from the R
 ### Project
 
 * Built a **Health Clinic Management System** using Java, JDBC, and MySQL to practice CRUD operations and implement a layered architecture.
+
+## Day 5 - Tomcat, Servlets & Spring Introduction
+
+### Topics Covered
+
+- Apache Tomcat as a Web/Application Server
+- Servlet Lifecycle
+- Introduction to the Spring Framework
+- Spring Core Concepts
+  - Inversion of Control (IoC)
+  - Dependency Injection (DI)
+
+### Key Learnings
+
+- Understood how Tomcat hosts and runs Java web applications.
+- Learned the different phases of the Servlet lifecycle.
+- Explored the basics of the Spring Framework.
+- Gained an understanding of IoC and Dependency Injection for building loosely coupled applications.
