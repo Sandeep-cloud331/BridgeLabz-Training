@@ -121,3 +121,18 @@ This repository contains my notes, practice programs, and assignments from the R
 - Learned the different phases of the Servlet lifecycle.
 - Explored the basics of the Spring Framework.
 - Gained an understanding of IoC and Dependency Injection for building loosely coupled applications.
+
+## Day 9 - Spring REST API & Request Handling
+
+### Topics Covered
+
+* Spring REST API programming
+* Building RESTful endpoints
+* Request handling patterns
+* H2 in-memory database basics
+* Distributed Architectures — overview and motivation
+
+### Project
+
+Started developing the **Contacts App backend** with basic REST endpoints.
+
