@@ -122,7 +122,7 @@ This repository contains my notes, practice programs, and assignments from the R
 - Explored the basics of the Spring Framework.
 - Gained an understanding of IoC and Dependency Injection for building loosely coupled applications.
 
-## Day 9 - Spring REST API & Request Handling
+## Day 7 - Spring REST API & Request Handling
 
 ### Topics Covered
 
@@ -136,3 +136,38 @@ This repository contains my notes, practice programs, and assignments from the R
 
 Started developing the **Contacts App backend** with basic REST endpoints.
 
+## Day 8 - API Testing Tools & SDLC Exposure
+
+### Topics Covered
+
+* REST Assured automated API testing
+* Automated happy-path and unhappy-path API tests
+* JSON Server for mock REST APIs
+* Software Development Life Cycle (SDLC)
+* Waterfall and Agile SDLC models
+
+### Project
+
+Continued developing the **Contacts App backend** by adding automated REST API tests using **REST Assured**.
+
+* Added tests for successful and failed API requests
+* Tested validation and missing-resource scenarios
+* Added tests for PUT and DELETE operations
+* Added duplicate-email handling and testing
+* Set up **JSON Server** as a mock REST API
+* Tested GET, POST, and DELETE operations with JSON Server
+* Compared JSON Server behavior with the real Contacts App API
+
+### Testing
+
+Implemented automated tests covering:
+
+* GET all contacts
+* Create a contact
+* Get a contact by ID
+* Handle non-existent contacts
+* Validate blank names
+* Validate invalid phone numbers
+* Update contacts
+* Delete contacts
+* Duplicate email handling
