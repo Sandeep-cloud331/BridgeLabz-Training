@@ -122,6 +122,20 @@ This repository contains my notes, practice programs, and assignments from the R
 - Explored the basics of the Spring Framework.
 - Gained an understanding of IoC and Dependency Injection for building loosely coupled applications.
 
+## Day 6 - Spring MVC & Request Handling
+
+### Topics Covered
+
+* Spring MVC architecture — DispatcherServlet, Controllers, and Views
+* Request mapping and handling in Spring MVC
+* Handling HTTP requests and parameters
+* Building REST-style endpoints with Spring MVC
+
+### Project
+
+Built the **Greetings App** using Spring MVC, implementing request mapping and handling to process incoming requests and return appropriate responses.
+
+
 ## Day 7 - Spring REST API & Request Handling
 
 ### Topics Covered
