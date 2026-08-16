@@ -185,3 +185,26 @@ Implemented automated tests covering:
 * Update contacts
 * Delete contacts
 * Duplicate email handling
+
+# Day 9 - Backend with Spring Boot
+
+### Topics Covered
+
+* Spring Boot fundamentals
+* Spring Boot auto-configuration
+* Spring Boot starters and dependency management
+* Embedded server and application setup
+* Spring Controllers
+
+### Project
+
+* Continued building the **Contacts App** backend using Spring Boot
+* Implemented and explored REST API endpoints
+* Worked with Spring Boot's auto-configuration and embedded server features
+
+### Key Takeaways
+
+* Understood how Spring Boot simplifies Spring application configuration.
+* Learned how starters provide commonly required dependencies.
+* Understood how Spring Boot runs applications using an embedded server.
+* Learned the basics of creating REST controllers and handling HTTP requests.
