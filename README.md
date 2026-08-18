@@ -208,3 +208,24 @@ Implemented automated tests covering:
 * Learned how starters provide commonly required dependencies.
 * Understood how Spring Boot runs applications using an embedded server.
 * Learned the basics of creating REST controllers and handling HTTP requests.
+
+# Day 10 - Backend with Spring Boot
+
+## Topics Covered
+
+* Understanding how Spring manages and injects dependencies
+* H2 Database integration
+* H2 database configuration in Spring Boot
+* Understanding in-memory databases for development and testing
+
+## Project
+
+Integrated and configured the **H2 Database** with the Contacts App / Employee Payroll App backend.
+
+The application was configured to connect to an **H2 in-memory database**, allowing database operations without requiring an external database server.
+
+## Key Learning
+
+* How Spring Boot configures a `DataSource`
+* How Hibernate connects to and communicates with H2
+* Difference between an in-memory database and a persistent database
