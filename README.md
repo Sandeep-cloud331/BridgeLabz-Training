@@ -229,3 +229,19 @@ The application was configured to connect to an **H2 in-memory database**, allow
 * How Spring Boot configures a `DataSource`
 * How Hibernate connects to and communicates with H2
 * Difference between an in-memory database and a persistent database
+
+# Day 11 - Spring Services, JPA & JDBC
+
+### Topics Covered
+
+* **Spring Services** — separating business logic from controllers using the service layer.
+* **Spring JPA** — managing database persistence and CRUD operations using JPA repositories.
+* **Spring JDBC** — implementing template-based database access with `JdbcTemplate`.
+* **RESTful API Design** — building structured REST APIs.
+* **Data Persistence** — connecting application logic with relational databases.
+* **Template-Based Data Access** — performing database operations using Spring JDBC.
+
+### Projects
+
+* Continued developing the **Contacts App backend**, applying Spring Services, JPA, and JDBC concepts.
+* Continued working on the **Employee Payroll App**, adding its basic structure and functionality while applying Spring concepts.
