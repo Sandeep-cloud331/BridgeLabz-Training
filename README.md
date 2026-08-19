@@ -245,3 +245,20 @@ The application was configured to connect to an **H2 in-memory database**, allow
 
 * Continued developing the **Contacts App backend**, applying Spring Services, JPA, and JDBC concepts.
 * Continued working on the **Employee Payroll App**, adding its basic structure and functionality while applying Spring concepts.
+
+# Day 12 - Spring Boot Logging & Bean Scopes
+
+### Topics Covered
+
+* SLF4J logging in Spring Boot
+* Log levels — `INFO`, `DEBUG`, `WARN`, and `ERROR`
+* Using `Logger` and `@Slf4j`
+* Logging application events and exceptions
+* Spring Bean Scopes
+* Singleton scope
+* Prototype scope
+* Understanding the difference between singleton and prototype beans
+
+### Project
+
+Continued working on the **Contacts App backend** by adding proper logging and experimenting with Spring Bean scopes
