@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6840eafb-b21a-4357-8e50-81c493fdf112" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day-1/DBMS cmd.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-1/DBMS cmd.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/TestConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/TestConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/config/HikariConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/config/HikariConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/dao/PatientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/dao/PatientDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/dao/PatientDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/dao/PatientDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/dto/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4/HealthClinicApp/src/main/java/com/clinic/dto/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-6/my-greetings-app/src/main/java/com/example/my_greetings_app/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-6/my-greetings-app/src/main/java/com/example/my_greetings_app/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/contacts-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-8/contacts-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/contacts-app/src/main/java/com/example/contacts_app/repository/ContactsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-8/contacts-app/src/main/java/com/example/contacts_app/repository/ContactsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/contacts-app/src/main/java/com/example/contacts_app/service/ContacsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-8/contacts-app/src/main/java/com/example/contacts_app/service/ContacsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/contacts-app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-8/contacts-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/contacts-app/src/test/java/com/example/contacts_app/ContactApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-8/contacts-app/src/test/java/com/example/contacts_app/ContactApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-8/contacts-app/src/test/java/com/example/contacts_app/ContactsAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-8/contacts-app/src/test/java/com/example/contacts_app/ContactsAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/controller/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/repository/ContactsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/repository/ContactsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/service/ContacsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/service/ContacsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/service/ContactsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/java/com/example/contacts_app/service/ContactsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-9/contacts-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-9/contacts-app/src/test/java/com/example/contacts_app/ContactApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-9/contacts-app/src/test/java/com/example/contacts_app/ContactApiTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="62" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3I9ZrFQggI9HkcbhgnIxEw8nzbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ContactsAppApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Refresher-Training",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ContactsAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="contacts-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.contacts_app.ContactsAppApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.contacts_app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ContactsAppApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6840eafb-b21a-4357-8e50-81c493fdf112" name="Changes" comment="" />
+      <created>1787178943554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787178943554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

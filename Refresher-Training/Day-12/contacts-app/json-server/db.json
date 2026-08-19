@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "2",
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "phone": "9123456780"
+    },
+    {
+      "id": "3",
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "phone": "9111122223"
+    },
+    {
+      "name": "",
+      "email": "test@gmail.com",
+      "phone": "123",
+      "id": "6EKX9mFj5Xo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
