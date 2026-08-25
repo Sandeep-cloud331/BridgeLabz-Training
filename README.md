@@ -348,7 +348,53 @@ By the end of Days 13--15, Fundoo Notes includes:
 -   Authorization
 -   JPA Relationships
 -   Notes Management
--   Pin / Archive / Trash
+-   Pin / Archive / Tr
 -   Search & Filter
 -   Tags / Labels
 -   Secure REST APIs
+
+
+## Day 16 --- JMS & Redis Caching
+
+### Learned
+
+-   JMS (Java Message Service) for asynchronous, non-blocking processing
+-   Background processing using message queues
+-   Redis caching
+-   Token caching to improve authorization performance
+
+### Implemented
+
+-   Reminder & Notification Module using JMS
+-   Redis-based token caching
+
+**Flow:**
+
+``` text
+Request → JMS Queue → Background Consumer → Reminder/Notification
+```
+
+------------------------------------------------------------------------
+
+## Day 17 --- RabbitMQ & Spring Batch
+
+### Learned
+
+-   RabbitMQ message queuing fundamentals
+-   Asynchronous background processing
+-   Spring Batch for batch processing
+-   Excel import/export
+
+### Implemented / Explored
+
+-   File Attachment Module (optional)
+-   RabbitMQ for background/asynchronous operations
+-   Excel processing using Spring Batch
+
+**Flow:**
+
+``` text
+Request → RabbitMQ → Consumer → Background Processing
+```
+
+
