@@ -262,3 +262,93 @@ The application was configured to connect to an **H2 in-memory database**, allow
 ### Project
 
 Continued working on the **Contacts App backend** by adding proper logging and experimenting with Spring Bean scopes
+
+## Day 13 --- Spring Security & JWT Authentication
+
+### Learned
+
+-   Spring Security fundamentals
+-   Authentication using JWT
+-   JWT token generation and validation
+-   Securing REST APIs
+-   User login, registration, and password recovery
+
+### Implemented
+
+-   User Management Module
+-   JWT-based login authentication
+-   Protected APIs using Spring Security
+
+**Flow:**
+
+``` text
+Client → Spring Security → JWT Filter → Controller → Service → Repository → Database
+```
+
+------------------------------------------------------------------------
+
+## Day 14 --- Authorization & JPA
+
+### Learned
+
+-   Authentication vs Authorization
+-   Securing resources based on the authenticated user
+-   JPA entity relationships
+-   User--Note relationship
+
+### Implemented
+
+-   Notes creation and deletion
+-   User-specific notes
+-   Authorization checks for note operations
+
+**Relationship:**
+
+``` text
+User (1) ────────< Note (Many)
+```
+
+------------------------------------------------------------------------
+
+## Day 15 --- Pin, Archive, Trash, Search & Tags
+
+### Learned
+
+-   REST endpoint design
+-   Note state management
+-   Search and filtering
+-   Tags / Labels
+
+### Implemented
+
+-   Pin notes
+-   Archive notes
+-   Move notes to trash
+-   Search and filter notes
+-   Add and manage tags
+
+**Example:**
+
+``` text
+Note
+ ├── Pinned
+ ├── Archived
+ ├── Trashed
+ └── Tags
+```
+
+------------------------------------------------------------------------
+
+## Overall Learning
+
+By the end of Days 13--15, Fundoo Notes includes:
+
+-   Spring Security
+-   JWT Authentication
+-   Authorization
+-   JPA Relationships
+-   Notes Management
+-   Pin / Archive / Trash
+-   Search & Filter
+-   Tags / Labels
+-   Secure REST APIs
